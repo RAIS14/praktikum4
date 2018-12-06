@@ -170,3 +170,6 @@ cout<<"\n\n\t\t\tProgram Logging Off....";
 ````
 **hasil nya** :
 ![img]https://raw.githubusercontent.com/RAIS14/praktikum4/master/Screenshot_lat1.png
+
+**flowchartnya** :
+![img]https://raw.githubusercontent.com/RAIS14/praktikum4/master/flowchart_lat1.jpg
